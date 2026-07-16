@@ -10,10 +10,10 @@ Nice to meet you and welcome to my portfolio! This is a living document for pers
 * Set an example for junior engineers
 
 # Projects Directory
-* [Hardware](/Hardware%20Projects)
-  * Solar-Powered IoT Soil Moisture Monitor
-  * Low-Cost Cellular IoT Home Camera
-  * Live Room Volume Gauge
+## [Hardware](/Hardware%20Projects)
+* Solar-Powered IoT Soil Moisture Monitor
+* Low-Cost Cellular IoT Home Camera
+* Live Room Volume Gauge
 
 
 
