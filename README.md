@@ -1,15 +1,19 @@
-Welcome to my portfolio! This is a living document for personal projects across electrical, mechanical and computer engineering. As a naturally curious and hands-on individual, I enjoy building tangible projects to learn more about a technical topic. I received my Bachelors in Mechanical Engineering from the Stevens Institute of Technology, and my Masters in Computer Engineering from Dartmouth College. However, as technology and information becomes more accessible, it's a great opportunity for everyone, not just engineers, to apply this knowledge to better our society.
+Welcome to my portfolio! This is a living document for personal projects related to engineering and emerging technologies. As a naturally curious individual with a knack for problem solving, I enjoy building practical projects to dive deeper and enagage with a topic of interest. 
 
-# Motivations
-* The best engineers are lifelong learners
-* Documentation is important
-* Set an example for junior engineers
+# About Me
+I received my Bachelors in Mechanical Engineering from the Stevens Institute of Technology and my Masters in Computer Engineering from Dartmouth College. I'm also an alumn of the FIRST Robotics Competiion and have been mentoring for my former team for the past 10 years. As the world becomes more connected and information becomes more accessible, I teach my students to embrace a multidisciplinary mindset dedicated to lifelong learning.
 
 # Projects Directory
-## [Hardware](/hardware.md)
-* Solar-Powered IoT Soil Moisture Monitor
+## Hardware
+* [Solar-Powered IoT Soil Moisture Monitor](/hardware.md)
 * Low-Cost Cellular IoT Home Camera
 * Live Room Volume Gauge
+
+## Software
+
+
+## Open Soure Contributions
+
 
 
 
