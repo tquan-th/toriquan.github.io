@@ -6,7 +6,7 @@ Welcome to my portfolio! This is a living document for personal projects across 
 * Set an example for junior engineers
 
 # Projects Directory
-## [Hardware](/Hardware.md)
+## [Hardware](/hardware.md)
 * Solar-Powered IoT Soil Moisture Monitor
 * Low-Cost Cellular IoT Home Camera
 * Live Room Volume Gauge
